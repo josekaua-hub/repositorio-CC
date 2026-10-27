@@ -1,0 +1,5 @@
+[1mnumpy[0m==2.5.4
+[1mpandas[0m==3.1.0
+[1mpython-dateutil[0m==3.0.0
+[1msix[0m==1.17.0
+[1mtzdata[0m==2026.5
